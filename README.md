@@ -2,3 +2,11 @@
 vue2学习实战
 
 This site war built using [GitHub Pages](https://pages.github.com/)
+
+first list item 
+- second nested list item
+  - third nested list item
+
+- [x] create pro
+- [ ] init
+- [ ] first feature
