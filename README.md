@@ -8,5 +8,5 @@ first list item
   - third nested list item
 
 - [x] create pro
-- [ ] init
+- [ ] #1
 - [ ] first feature
