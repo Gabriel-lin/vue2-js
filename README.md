@@ -11,4 +11,9 @@ first list item
 - [ ] #1
 - [ ] first feature
 
+Here is simple footnote[^1].
+[^1]: first footnote.
+
+<!--This content will not appear in rendered Markerdown-->
+
 @Gab  :+1: This PR looks great - it's ready to merge! :shipit:
